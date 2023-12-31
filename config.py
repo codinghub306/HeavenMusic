@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "23180562"))
 API_HASH = getenv("API_HASH", "8a23a8d9bb22a6ad55ea8a4110c0ee2b")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "6597123889:AAHhIWdTQyurwpZmxsdkq7WWxi3PlZPt0eI")
+BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Bhojpuriya:bhojpuriya@cluster0.osrvhzy.mongodb.net/?retryWrites=true&w=majority")
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = getenv("STRING_SESSION", "BQFhtRIAkiwjqYJKmOuX8Ds1NMFIBg4a_2FpJV_i7qbNazZTUJzTa54bBr2JZ2kJp4LrvaR1S18EwPhYgCQklJuPJVpSkEAh3pCRrbSUmShC-uKHIgSTQsLoab650R31hMuyO3j_ju8wQqLnikLE61Fn7g4QU_jC-qLlvJpIqtIitkkb5enEIDnCxliccyUdSnubAC35lkPATvLdk_x-uzA8K9vtDWFGWilBIFOrHHOC2Wy85VEbc7s5-WfeZ8De8o8lACC2xxn7_KHiWDfvYmv5_GZensBqLLqzb4DmqV_RuLm8PAtc86u43ls2erLBZ68d9IEthus-FOcTeR2i2nRsRdH83gAAAAGddRkfAA")
+STRING1 = getenv("STRING_SESSION", "")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -78,15 +78,15 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", ""
+    "START_IMG_URL", "https://telegra.ph/file/b7e66d431a9ac55342712.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", ""
+    "PING_IMG_URL", "https://telegra.ph/file/ed8a2a0dfa2d0c11bd92a.jpg"
 )
-PLAYLIST_IMG_URL = ""
-STATS_IMG_URL = ""
-TELEGRAM_AUDIO_URL = ""
-TELEGRAM_VIDEO_URL = ""
+PLAYLIST_IMG_URL = "https://telegra.ph/file/7dea43c570fee0d868ad7.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/b39e24b9374ed4f30ed76.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/43dc5aa4546827b5f5c12.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/4bc2125b409c550e0808f.jpg"
 STREAM_IMG_URL = ""
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 YOUTUBE_IMG_URL = ""
