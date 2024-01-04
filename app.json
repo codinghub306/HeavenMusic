@@ -1,7 +1,7 @@
 {
     "name": "ʜᴇᴧᴠᴇɴ ダ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "",
+    "logo": "https://telegra.ph/file/820eb2b20f775a6061ef5.jpg",
     "keywords": [
     "python3",
     "telegram",
