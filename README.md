@@ -8,6 +8,10 @@
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ʜᴇᴧᴠᴇɴ ダ ᴍᴜsɪᴄ](https://t.me/Heavenxmusic_Bot)**_
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「ʜᴇᴧᴠᴇɴ ダ ᴍᴜsɪᴄ」+──;An+Advanced+Group+Music+Bot.&width=600&height=180">
+</div>
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
