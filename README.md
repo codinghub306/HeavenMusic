@@ -8,7 +8,7 @@
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ʜᴇᴧᴠᴇɴ ダ ᴍᴜsɪᴄ](https://t.me/Heavenxmusic_Bot)**_
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
 <a href="https://github.com/codinghub306/HeavenMusic/stargazers"><img src="https://img.shields.io/github/stars/codinghub306/HeavenMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -19,7 +19,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ʜᴇᴧᴠᴇɴ �
 <a href="https://github.com/codinghub306/HeavenMusic/commits/codinghub306"> <img src="https://img.shields.io/github/last-commit/codinghub306/HeavenMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </p>
 
